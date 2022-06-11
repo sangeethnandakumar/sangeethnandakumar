@@ -16,7 +16,7 @@ Hey there, I’m a full-stack engineer, freelancer & creative coder who speciali
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="left">
+<p align="center">
 <a href="https://github.com/sangeethnandakumar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sangeethnandakumar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sangeethnandakumar&layout=compact&langs_count=8&theme=algolia"/>
