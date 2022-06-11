@@ -7,28 +7,13 @@
   <a href="https://avatars.githubusercontent.com/u/9011267?v=4">
     <img src="https://dotnet.microsoft.com/static/images/illustrations/free-code-editor-tools-bot-desk.svg?v=WWIDocc21QEOeLjT9jofZosRF7KhqeGcGtaQr2ZB7TE" alt="Logo" width="300">
   </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
+  
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+Hey there, I’m a full-stack engineer, freelancer & creative coder who specializes in webscrapping, backend development primarly in .NET and front-end development in React.js. I make it my mission to translate user-focused concepts into reliable solutions or applications that can run blazingly fast.
+      <br />  
+      <br />    <a href="https://www.instagram.com/thebadcaptin"><strong>Explore Together »</strong></a>
   </p>
 </div>
-
-
-<img align='right' src="https://avatars.githubusercontent.com/u/9011267?v=4" width="190">
-
-### ⚙️ &nbsp;MySelf
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="left">
