@@ -9,7 +9,7 @@
   </a>
   
   <p align="center">
-Hey there, I’m a full-stack engineer, freelancer & creative coder who specializes in webscrapping, backend development primarly in .NET and front-end development in React.js. I make it my mission to translate user-focused concepts into reliable solutions or applications that can run blazingly fast.
+Hey there, I’m a full-stack engineer & creative coder who specializes in webscrapping, backend development primarly in .NET and front-end development in React.js. I make it my mission to translate user-focused concepts into reliable solutions or applications that can run blazingly fast.
       <br />  
       <br />    <a href="https://www.instagram.com/thebadcaptin"><strong>Explore Together »</strong></a>
   </p>
