@@ -16,32 +16,34 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 ----
 
 #### 🌱 MY RECENT PROJECTS
-> **Note**
-> This is an Auto generated list using GitHub Workflow. May not be 100% accurate
+> **Warning**
+> This is an Auto generated list using GitHub Workflow. Check inside repo for details
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
 #### 🔨 MY RECENT PULL REQUESTS
-> **Note**
-> This is an Auto generated list using GitHub Workflow. May not be 100% accurate
+> **Warning**
+> This is an Auto generated list using GitHub Workflow. Check inside repo for details
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
+#### 📜 MY RECENT BLOGS
+> **Warning**
+> This is an Auto generated list using GitHub Workflow. Check inside repo for details
 {{range rss "https://fribbledom.com/posts/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### ⭐ Recent stars
-> **Note**
-> This is an Auto generated list using GitHub Workflow. May not be 100% accurate
+#### ⭐ MY RECENT STARS
+> **Warning**
+> This is an Auto generated list using GitHub Workflow. Check inside repo for details
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
 
-#### 📫 How to reach me
+#### 📫 REACHOUT TO ME
 
 - Mail: sangeethnandakumarwork@gmail.com or twileloop@outlook.com
 - Follow On Instagram: @thebadcaptin
