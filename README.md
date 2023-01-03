@@ -1,14 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sangeeth Nandakumar</h1>
+<h3 align="center">Passionate developer who loves fishing a lot... 🐠.</h3>
 
-<img align="right" src="https://raw.githubusercontent.com/muesli/muesli/master/assets/termenv.png" width="260">
 
-I'm Chris, an open-source enthusiast and avid contributor. I'm the author of [duf](https://github.com/muesli/duf),
-[gitty](https://github.com/muesli/gitty), [Beehive](https://github.com/muesli/beehive), [Knoxite](https://github.com/knoxite/knoxite)
- and a bunch of other [projects](https://fribbledom.com/projects/). Curious what I've been working on recently?
-
-(Love the logo on the right as much as I do? The awesome [Christian Rocha](https://github.com/meowgorithm/) made it!)
-
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+<br />
+<div align="center">
+  <a href="https://avatars.githubusercontent.com/u/9011267?v=4">
+    <img src="https://dotnet.microsoft.com/static/images/illustrations/free-code-editor-tools-bot-desk.svg?v=WWIDocc21QEOeLjT9jofZosRF7KhqeGcGtaQr2ZB7TE" alt="Logo" width="300">
+  </a>
+  
+  <p align="center">
+Hey there, I’m a full-stack engineer & creative coder who specializes in webscrapping, backend development primarly in .NET and front-end development in React.js. I make it my mission to translate user-focused concepts into reliable solutions or applications that can run blazingly fast.
+      <br />  
+      <br />    <a href="https://www.instagram.com/thebadcaptin"><strong>Explore Together »</strong></a>
+  </p>
+</div>
 
 #### 🌱 My latest projects
 
