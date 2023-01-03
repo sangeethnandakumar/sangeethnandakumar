@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://avatars.githubusercontent.com/u/9011267?v=4">
-    <img src="https://www.dotnetconf.net/img/hero-illustration-bot.svg" alt="Logo" width="500">
+    <img src="https://www.dotnetconf.net/img/hero-illustration-bot.svg" alt="Logo" width="300">
   </a>
   
   <p align="center">
