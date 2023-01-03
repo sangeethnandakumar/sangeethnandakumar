@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sangeeth Nandakumar</h1>
 <h3 align="center">Passionate developer who loves fishing a lot... 🐠.</h3>
 
-<!-- PROJECT LOGO -->
+
 <br />
 <div align="center">
   <a href="https://avatars.githubusercontent.com/u/9011267?v=4">
@@ -10,22 +10,21 @@
   
   <p align="center">
 Hey there, I’m a full-stack engineer & creative coder who specializes in webscrapping, backend development primarly in .NET and front-end development in React.js. I make it my mission to translate user-focused concepts into reliable solutions or applications that can run blazingly fast.
-      <br />  
-      <br />    <a href="https://www.instagram.com/thebadcaptin"><strong>Explore Together »</strong></a>
   </p>
 </div>
 
-#### 🌱 My latest projects
+----
+
+#### 🌱 MY RECENT PROJECTS
+> **Note**
+> This is an Auto generated list using GitHub Workflow. May not be 100% accurate
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
-{{- end}}
-
-#### 🔨 Latest Pull Requests I published
+#### 🔨 MY RECENT PULL REQUESTS
+> **Note**
+> This is an Auto generated list using GitHub Workflow. May not be 100% accurate
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
@@ -36,23 +35,13 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 {{- end}}
 
 #### ⭐ Recent stars
+> **Note**
+> This is an Auto generated list using GitHub Workflow. May not be 100% accurate
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
 
-#### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### 💬 Feedback
-
-If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked
-and what needs being improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
-
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/mueslix
-- Fediverse: https://mastodon.social/@fribbledom
-- Blog: https://fribbledom.com
-- IRC: muesli on Libera
+- Mail: sangeethnandakumarwork@gmail.com or twileloop@outlook.com
+- Follow On Instagram: @thebadcaptin
