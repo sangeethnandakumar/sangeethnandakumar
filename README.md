@@ -16,8 +16,8 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 ----
 
 #### 🌱 MY RECENT PROJECTS
-> **Note**
-> This is an Auto generated list using GitHub Workflow. May not be 100% accurate
+> **Warning**
+> This is an Auto generated list using GitHub Workflow. Check inside repo for details
 
 - [sangeethnandakumar/ExpressRecurrence-Pilot](https://github.com/sangeethnandakumar/ExpressRecurrence-Pilot)
 - [sangeethnandakumar/StableDiffusionAPI](https://github.com/sangeethnandakumar/StableDiffusionAPI) - StableDiffusion API and dashboard setup
@@ -26,13 +26,15 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 - [sangeethnandakumar/VLCIntegration](https://github.com/sangeethnandakumar/VLCIntegration) - VLC Integration to WinForms
 
 #### 🔨 MY RECENT PULL REQUESTS
-> **Note**
-> This is an Auto generated list using GitHub Workflow. May not be 100% accurate
+> **Warning**
+> This is an Auto generated list using GitHub Workflow. Check inside repo for details
 
 - [First save](https://github.com/afnanashraf10/MyCollege_mini_project/pull/1) on [afnanashraf10/MyCollege_mini_project](https://github.com/afnanashraf10/MyCollege_mini_project) (5 years ago)
 - [Create Edits_by_a_fan_of_urs](https://github.com/CodingTrain/website-archive/pull/88) on [CodingTrain/website-archive](https://github.com/CodingTrain/website-archive) (5 years ago)
 
-#### 📜 My recent blog posts
+#### 📜 MY RECENT BLOGS
+> **Warning**
+> This is an Auto generated list using GitHub Workflow. Check inside repo for details
 
 - [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (2 years ago)
 - [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (3 years ago)
@@ -40,9 +42,9 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 - [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (4 years ago)
 - [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) (4 years ago)
 
-#### ⭐ Recent stars
-> **Note**
-> This is an Auto generated list using GitHub Workflow. May not be 100% accurate
+#### ⭐ MY RECENT STARS
+> **Warning**
+> This is an Auto generated list using GitHub Workflow. Check inside repo for details
 
 - [PaulHatch/semantic-version](https://github.com/PaulHatch/semantic-version) - A GitHub Action to generate semantic version from a git repository&#39;s commit history. (1 day ago)
 - [sebastienros/jint](https://github.com/sebastienros/jint) - Javascript Interpreter for .NET (5 days ago)
@@ -50,7 +52,7 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (4 months ago)
 - [minhhungit/ConsoleTableExt](https://github.com/minhhungit/ConsoleTableExt) - A fluent library to print out a nicely formatted table in a console application C#  (4 months ago)
 
-#### 📫 How to reach me
+#### 📫 REACHOUT TO ME
 
 - Mail: sangeethnandakumarwork@gmail.com or twileloop@outlook.com
 - Follow On Instagram: @thebadcaptin
