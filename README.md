@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://avatars.githubusercontent.com/u/9011267?v=4">
-    <img src="https://dotnet.microsoft.com/static/images/illustrations/free-code-editor-tools-bot-desk.svg?v=WWIDocc21QEOeLjT9jofZosRF7KhqeGcGtaQr2ZB7TE" alt="Logo" width="300">
+    <img src="https://www.dotnetconf.net/img/hero-illustration-bot.svg" alt="Logo" width="500">
   </a>
   
   <p align="center">
