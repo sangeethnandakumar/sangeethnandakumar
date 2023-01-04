@@ -17,33 +17,34 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 
 #### 🌱 MY RECENT PROJECTS
 > **Warning**
-> This is an Auto generated list using GitHub Workflow. Check inside repo for details
+> This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
 #### 🔨 MY RECENT PULL REQUESTS
 > **Warning**
-> This is an Auto generated list using GitHub Workflow. Check inside repo for details
+> This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 #### 📜 MY RECENT BLOGS
 > **Warning**
-> This is an Auto generated list using GitHub Workflow. Check inside repo for details
+> This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 {{range rss "https://fribbledom.com/posts/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### ⭐ MY RECENT STARS
 > **Warning**
-> This is an Auto generated list using GitHub Workflow. Check inside repo for details
+> This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
 
 #### 📫 REACHOUT TO ME
 
+- LinkedIn: https://www.linkedin.com/in/sangeethnandakumar
 - Mail: sangeethnandakumarwork@gmail.com or twileloop@outlook.com
 - Follow On Instagram: @thebadcaptin
