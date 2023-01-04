@@ -17,7 +17,7 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 
 #### 🌱 MY RECENT PROJECTS
 > **Warning**
-> This is an Auto generated list using GitHub Workflow. Check inside repo for details
+> This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 
 - [sangeethnandakumar/Twileloop.Tools.ScafoldCLI](https://github.com/sangeethnandakumar/Twileloop.Tools.ScafoldCLI) - Official repository of Scafold CLI tool that has the tools to scafold anything related to your project
 - [sangeethnandakumar/ExpressRecurrence-Pilot](https://github.com/sangeethnandakumar/ExpressRecurrence-Pilot) - Template Repository For GitConfigs
@@ -27,14 +27,14 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 
 #### 🔨 MY RECENT PULL REQUESTS
 > **Warning**
-> This is an Auto generated list using GitHub Workflow. Check inside repo for details
+> This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 
 - [First save](https://github.com/afnanashraf10/MyCollege_mini_project/pull/1) on [afnanashraf10/MyCollege_mini_project](https://github.com/afnanashraf10/MyCollege_mini_project) (5 years ago)
 - [Create Edits_by_a_fan_of_urs](https://github.com/CodingTrain/website-archive/pull/88) on [CodingTrain/website-archive](https://github.com/CodingTrain/website-archive) (5 years ago)
 
 #### 📜 MY RECENT BLOGS
 > **Warning**
-> This is an Auto generated list using GitHub Workflow. Check inside repo for details
+> This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 
 - [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (2 years ago)
 - [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (3 years ago)
@@ -44,7 +44,7 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 
 #### ⭐ MY RECENT STARS
 > **Warning**
-> This is an Auto generated list using GitHub Workflow. Check inside repo for details
+> This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 
 - [PaulHatch/semantic-version](https://github.com/PaulHatch/semantic-version) - A GitHub Action to generate semantic version from a git repository&#39;s commit history. (2 days ago)
 - [sebastienros/jint](https://github.com/sebastienros/jint) - Javascript Interpreter for .NET (6 days ago)
@@ -54,5 +54,6 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 
 #### 📫 REACHOUT TO ME
 
+- LinkedIn: https://www.linkedin.com/in/sangeethnandakumar
 - Mail: sangeethnandakumarwork@gmail.com or twileloop@outlook.com
 - Follow On Instagram: @thebadcaptin
