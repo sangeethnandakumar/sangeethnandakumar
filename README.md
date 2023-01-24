@@ -29,7 +29,7 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 > **Warning**
 > This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 
-- [Added UnitTests using XUnit](https://github.com/CodeMazeBlog/CodeMazeGuides/pull/804) on [CodeMazeBlog/CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides) (1 week ago)
+- [Added UnitTests using XUnit](https://github.com/CodeMazeBlog/CodeMazeGuides/pull/804) on [CodeMazeBlog/CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides) (2 weeks ago)
 - [sangeethnandakumarwork - PR For Action And Func - Advanced C#](https://github.com/CodeMazeBlog/CodeMazeGuides/pull/786) on [CodeMazeBlog/CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides) (2 weeks ago)
 - [First save](https://github.com/afnanashraf10/MyCollege_mini_project/pull/1) on [afnanashraf10/MyCollege_mini_project](https://github.com/afnanashraf10/MyCollege_mini_project) (5 years ago)
 - [Create Edits_by_a_fan_of_urs](https://github.com/CodingTrain/website-archive/pull/88) on [CodingTrain/website-archive](https://github.com/CodingTrain/website-archive) (5 years ago)
@@ -48,11 +48,11 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 > **Warning**
 > This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 
+- [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI (1 day ago)
+- [EmpireMediaScience/A1111-Web-UI-Installer](https://github.com/EmpireMediaScience/A1111-Web-UI-Installer) - Complete installer for Automatic1111&#39;s infamous Stable Diffusion WebUI (1 day ago)
 - [junian/Standard.Licensing](https://github.com/junian/Standard.Licensing) - Easy-to-use licensing library for .NET Framework, Mono, .NET Core, and Xamarin products (1 week ago)
 - [PaulHatch/semantic-version](https://github.com/PaulHatch/semantic-version) - A GitHub Action to generate semantic version from a git repository&#39;s commit history. (3 weeks ago)
 - [sebastienros/jint](https://github.com/sebastienros/jint) - Javascript Interpreter for .NET (3 weeks ago)
-- [sangeethnandakumar/PerfoBoosts](https://github.com/sangeethnandakumar/PerfoBoosts) - Performance Boosting .NET Tricks (4 months ago)
-- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (4 months ago)
 
 #### 📫 REACHOUT TO ME
 
