@@ -48,10 +48,10 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 > **Warning**
 > This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 
-- [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI (6 days ago)
-- [EmpireMediaScience/A1111-Web-UI-Installer](https://github.com/EmpireMediaScience/A1111-Web-UI-Installer) - Complete installer for Automatic1111&#39;s infamous Stable Diffusion WebUI (6 days ago)
+- [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI (1 week ago)
+- [EmpireMediaScience/A1111-Web-UI-Installer](https://github.com/EmpireMediaScience/A1111-Web-UI-Installer) - Complete installer for Automatic1111&#39;s infamous Stable Diffusion WebUI (1 week ago)
 - [junian/Standard.Licensing](https://github.com/junian/Standard.Licensing) - Easy-to-use licensing library for .NET Framework, Mono, .NET Core, and Xamarin products (2 weeks ago)
-- [PaulHatch/semantic-version](https://github.com/PaulHatch/semantic-version) - A GitHub Action to generate semantic version from a git repository&#39;s commit history. (3 weeks ago)
+- [PaulHatch/semantic-version](https://github.com/PaulHatch/semantic-version) - A GitHub Action to generate semantic version from a git repository&#39;s commit history. (4 weeks ago)
 - [sebastienros/jint](https://github.com/sebastienros/jint) - Javascript Interpreter for .NET (1 month ago)
 
 #### 📫 REACHOUT TO ME
