@@ -19,11 +19,11 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 > **Warning**
 > This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 
+- [sangeethnandakumar/MAUI-Blazor-Template](https://github.com/sangeethnandakumar/MAUI-Blazor-Template) - Test Repository of .NET MAUI
 - [sangeethnandakumar/Twileloop](https://github.com/sangeethnandakumar/Twileloop) - Official Twileloop Website
 - [sangeethnandakumar/FinanceProcessor](https://github.com/sangeethnandakumar/FinanceProcessor) - Official source for FinanceProcessor project
 - [sangeethnandakumar/MAUITest](https://github.com/sangeethnandakumar/MAUITest)
 - [sangeethnandakumar/InnoSetupScripts](https://github.com/sangeethnandakumar/InnoSetupScripts) - Inno setup scripts template
-- [sangeethnandakumar/Twileloop.EPub](https://github.com/sangeethnandakumar/Twileloop.EPub) - EPUB Parser &amp; Editor - A C# library for parsing and editing EPUB files. Create new EPUB files with support.
 
 #### 🔨 MY RECENT PULL REQUESTS
 > **Warning**
@@ -49,7 +49,7 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 > **Warning**
 > This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 
-- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more. (1 day ago)
+- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more. (2 days ago)
 - [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI (1 month ago)
 - [EmpireMediaScience/A1111-Web-UI-Installer](https://github.com/EmpireMediaScience/A1111-Web-UI-Installer) - Complete installer for Automatic1111&#39;s infamous Stable Diffusion WebUI (1 month ago)
 - [junian/Standard.Licensing](https://github.com/junian/Standard.Licensing) - Easy-to-use licensing library for .NET Framework, Mono, .NET Core, and Xamarin products (1 month ago)
