@@ -29,11 +29,11 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 > **Warning**
 > This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 
-- [Feature/basic features](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/6) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (1 day ago)
-- [Delete sonar-project.properties](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/5) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (1 day ago)
-- [Create sonar-project.properties](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/4) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (1 day ago)
-- [Feature/basic features](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/3) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (1 day ago)
-- [Feature/basic features](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/2) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (1 day ago)
+- [Features/grand master](https://github.com/sangeethnandakumar/MAUI-Blazor-Template/pull/1) on [sangeethnandakumar/MAUI-Blazor-Template](https://github.com/sangeethnandakumar/MAUI-Blazor-Template) (1 day ago)
+- [Feature/basic features](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/6) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (2 days ago)
+- [Delete sonar-project.properties](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/5) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (2 days ago)
+- [Create sonar-project.properties](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/4) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (2 days ago)
+- [Feature/basic features](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/3) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (2 days ago)
 
 #### 📜 MY RECENT BLOGS
 > **Warning**
@@ -49,8 +49,8 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 > **Warning**
 > This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 
-- [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) - A fully free open source cross platform fluent APIClient for your .NET application (1 day ago)
-- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more. (5 days ago)
+- [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) - A fully free open source cross platform fluent APIClient for your .NET application (2 days ago)
+- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more. (6 days ago)
 - [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI (1 month ago)
 - [EmpireMediaScience/A1111-Web-UI-Installer](https://github.com/EmpireMediaScience/A1111-Web-UI-Installer) - Complete installer for Automatic1111&#39;s infamous Stable Diffusion WebUI (1 month ago)
 - [junian/Standard.Licensing](https://github.com/junian/Standard.Licensing) - Easy-to-use licensing library for .NET Framework, Mono, .NET Core, and Xamarin products (2 months ago)
