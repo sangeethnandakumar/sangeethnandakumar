@@ -50,7 +50,7 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 > This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 
 - [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) - A fully free open source cross platform fluent APIClient for your .NET application (1 week ago)
-- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more. (1 week ago)
+- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more. (2 weeks ago)
 - [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI (2 months ago)
 - [EmpireMediaScience/A1111-Web-UI-Installer](https://github.com/EmpireMediaScience/A1111-Web-UI-Installer) - Complete installer for Automatic1111&#39;s infamous Stable Diffusion WebUI (2 months ago)
 - [junian/Standard.Licensing](https://github.com/junian/Standard.Licensing) - Easy-to-use licensing library for .NET Framework, Mono, .NET Core, and Xamarin products (2 months ago)
