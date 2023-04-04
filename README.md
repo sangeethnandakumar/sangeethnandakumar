@@ -29,8 +29,8 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 > **Warning**
 > This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 
-- [fix - Added one unit test](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/7) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (1 day ago)
-- [feat - Automated sitemap generator](https://github.com/sangeethnandakumar/Twileloop/pull/1) on [sangeethnandakumar/Twileloop](https://github.com/sangeethnandakumar/Twileloop) (3 days ago)
+- [fix - Added one unit test](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/7) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (2 days ago)
+- [feat - Automated sitemap generator](https://github.com/sangeethnandakumar/Twileloop/pull/1) on [sangeethnandakumar/Twileloop](https://github.com/sangeethnandakumar/Twileloop) (4 days ago)
 - [Features/grand master](https://github.com/sangeethnandakumar/MAUI-Blazor-Template/pull/1) on [sangeethnandakumar/MAUI-Blazor-Template](https://github.com/sangeethnandakumar/MAUI-Blazor-Template) (2 weeks ago)
 - [Feature/basic features](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/6) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (2 weeks ago)
 - [Delete sonar-project.properties](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/5) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (2 weeks ago)
