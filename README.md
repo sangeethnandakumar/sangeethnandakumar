@@ -29,11 +29,11 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 > **Warning**
 > This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 
-- [fix - Added one unit test](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/7) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (6 days ago)
+- [fix - Changed issuer URL to use HTTPS](https://github.com/sangeethnandakumar/OAuth/pull/2) on [sangeethnandakumar/OAuth](https://github.com/sangeethnandakumar/OAuth) (1 day ago)
+- [Features/server upgrades](https://github.com/sangeethnandakumar/OAuth/pull/1) on [sangeethnandakumar/OAuth](https://github.com/sangeethnandakumar/OAuth) (1 day ago)
+- [fix - Added one unit test](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/7) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (1 week ago)
 - [feat - Automated sitemap generator](https://github.com/sangeethnandakumar/Twileloop/pull/1) on [sangeethnandakumar/Twileloop](https://github.com/sangeethnandakumar/Twileloop) (1 week ago)
 - [Features/grand master](https://github.com/sangeethnandakumar/MAUI-Blazor-Template/pull/1) on [sangeethnandakumar/MAUI-Blazor-Template](https://github.com/sangeethnandakumar/MAUI-Blazor-Template) (3 weeks ago)
-- [Feature/basic features](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/6) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (3 weeks ago)
-- [Delete sonar-project.properties](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/5) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (3 weeks ago)
 
 #### 📜 MY RECENT BLOGS
 > **Warning**
