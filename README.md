@@ -29,8 +29,8 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 > **Warning**
 > This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 
-- [fix - Changed issuer URL to use HTTPS](https://github.com/sangeethnandakumar/OAuth/pull/2) on [sangeethnandakumar/OAuth](https://github.com/sangeethnandakumar/OAuth) (1 day ago)
-- [Features/server upgrades](https://github.com/sangeethnandakumar/OAuth/pull/1) on [sangeethnandakumar/OAuth](https://github.com/sangeethnandakumar/OAuth) (1 day ago)
+- [fix - Changed issuer URL to use HTTPS](https://github.com/sangeethnandakumar/OAuth/pull/2) on [sangeethnandakumar/OAuth](https://github.com/sangeethnandakumar/OAuth) (2 days ago)
+- [Features/server upgrades](https://github.com/sangeethnandakumar/OAuth/pull/1) on [sangeethnandakumar/OAuth](https://github.com/sangeethnandakumar/OAuth) (2 days ago)
 - [fix - Added one unit test](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/7) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (1 week ago)
 - [feat - Automated sitemap generator](https://github.com/sangeethnandakumar/Twileloop/pull/1) on [sangeethnandakumar/Twileloop](https://github.com/sangeethnandakumar/Twileloop) (1 week ago)
 - [Features/grand master](https://github.com/sangeethnandakumar/MAUI-Blazor-Template/pull/1) on [sangeethnandakumar/MAUI-Blazor-Template](https://github.com/sangeethnandakumar/MAUI-Blazor-Template) (3 weeks ago)
@@ -50,7 +50,7 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 > This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 
 - [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) - A fully free open source cross platform fluent APIClient for your .NET application (3 weeks ago)
-- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more. (4 weeks ago)
+- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more. (1 month ago)
 - [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI (2 months ago)
 - [EmpireMediaScience/A1111-Web-UI-Installer](https://github.com/EmpireMediaScience/A1111-Web-UI-Installer) - Complete installer for Automatic1111&#39;s infamous Stable Diffusion WebUI (2 months ago)
 - [junian/Standard.Licensing](https://github.com/junian/Standard.Licensing) - Easy-to-use licensing library for .NET Framework, Mono, .NET Core, and Xamarin products (2 months ago)
