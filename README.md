@@ -29,11 +29,11 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 > **Warning**
 > This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 
-- [fix - Changed issuer URL to use HTTPS](https://github.com/sangeethnandakumar/OAuth/pull/2) on [sangeethnandakumar/OAuth](https://github.com/sangeethnandakumar/OAuth) (6 days ago)
-- [Features/server upgrades](https://github.com/sangeethnandakumar/OAuth/pull/1) on [sangeethnandakumar/OAuth](https://github.com/sangeethnandakumar/OAuth) (6 days ago)
+- [fix - Changed issuer URL to use HTTPS](https://github.com/sangeethnandakumar/OAuth/pull/2) on [sangeethnandakumar/OAuth](https://github.com/sangeethnandakumar/OAuth) (1 week ago)
+- [Features/server upgrades](https://github.com/sangeethnandakumar/OAuth/pull/1) on [sangeethnandakumar/OAuth](https://github.com/sangeethnandakumar/OAuth) (1 week ago)
 - [fix - Added one unit test](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/7) on [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) (1 week ago)
 - [feat - Automated sitemap generator](https://github.com/sangeethnandakumar/Twileloop/pull/1) on [sangeethnandakumar/Twileloop](https://github.com/sangeethnandakumar/Twileloop) (2 weeks ago)
-- [Features/grand master](https://github.com/sangeethnandakumar/MAUI-Blazor-Template/pull/1) on [sangeethnandakumar/MAUI-Blazor-Template](https://github.com/sangeethnandakumar/MAUI-Blazor-Template) (4 weeks ago)
+- [Features/grand master](https://github.com/sangeethnandakumar/MAUI-Blazor-Template/pull/1) on [sangeethnandakumar/MAUI-Blazor-Template](https://github.com/sangeethnandakumar/MAUI-Blazor-Template) (1 month ago)
 
 #### 📜 MY RECENT BLOGS
 > **Warning**
@@ -49,7 +49,7 @@ Hey there, I’m a full-stack engineer & creative coder who specializes in websc
 > **Warning**
 > This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
 
-- [sangeethnandakumar/Twileloop.UOW](https://github.com/sangeethnandakumar/Twileloop.UOW) - Simple plug and play Unit Of Work pattern for your projects using LiteDB (2 days ago)
+- [sangeethnandakumar/Twileloop.UOW](https://github.com/sangeethnandakumar/Twileloop.UOW) - Simple plug and play Unit Of Work pattern for your projects using LiteDB (3 days ago)
 - [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) - A fully free open source cross platform fluent APIClient for your .NET application (1 month ago)
 - [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more. (1 month ago)
 - [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI (2 months ago)
