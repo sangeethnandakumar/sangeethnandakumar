@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *" #Runs at end of every day
+  push:
+    branches:
+      - master
 
 jobs:
   UpdateReadMe:
