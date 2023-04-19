@@ -26,30 +26,56 @@
 > **Warning**
 > This is an auto-generated list - I've set it up using GitHub Workflow. Check inside repo for details.
 
-| Repository | Description |
-| --- | --- |
-{{range recentRepos 5}}| [{{.Name}}]({{.URL}}) | {{with .Description}}{{.}}{{end}} |
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Description</th>
+  </tr>
+{{range recentRepos 5}}
+  <tr>
+    <td><a href="{{.URL}}">{{.Name}}</a></td>
+    <td>{{with .Description}}{{.}}{{end}}</td>
+  </tr>
 {{- end}}
+</table>
 
 ## 🔨 MY RECENT PULL REQUESTS
 
 > **Warning**
 > This is an auto-generated list - I've set it up using GitHub Workflow. Check inside repo for details.
 
-| Pull Request | Repository | Date |
-| --- | --- | --- |
-{{range recentPullRequests 5}}| [{{.Title}}]({{.URL}}) | [{{.Repo.Name}}]({{.Repo.URL}}) | {{humanize .CreatedAt}} |
+<table>
+  <tr>
+    <th>Pull Request</th>
+    <th>Repository</th>
+    <th>Date</th>
+  </tr>
+{{range recentPullRequests 5}}
+  <tr>
+    <td><a href="{{.URL}}">{{.Title}}</a></td>
+    <td><a href="{{.Repo.URL}}">{{.Repo.Name}}</a></td>
+    <td>{{humanize .CreatedAt}}</td>
+  </tr>
 {{- end}}
+</table>
 
 ## 📜 MY RECENT BLOGS
 
 > **Warning**
 > This is an auto-generated list - I've set it up using GitHub Workflow. Check inside repo for details.
 
-| Blog Post | Date |
-| --- | --- |
-{{range rss "https://fribbledom.com/posts/index.xml" 5}}| [{{.Title}}]({{.URL}}) | {{humanize .PublishedAt}} |
+<table>
+  <tr>
+    <th>Blog Post</th>
+    <th>Date</th>
+  </tr>
+{{range rss "https://fribbledom.com/posts/index.xml" 5}}
+  <tr>
+    <td><a href="{{.URL}}">{{.Title}}</a></td>
+    <td>{{humanize .PublishedAt}}</td>
+  </tr>
 {{- end}}
+</table>
 
 ## ⭐ MY RECENT STARS
 
