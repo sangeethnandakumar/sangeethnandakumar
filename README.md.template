@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td>
-      <p><b>Full-Stack Engineer &amp; Creative Coder</b></p>
+      <p><b>Creative Coder &amp; Full-Stack Engineer</b></p>
       <p>Contributing to the open source community through meticulously-crafted .NET and JavaScript libraries, complemented by a diverse range of expertise in Selenium, high-performance WebAPI, and Flutter.</p>
     </td>
     <td>
