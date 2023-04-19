@@ -1,50 +1,68 @@
 <h1 align="center">Hi 👋, I'm Sangeeth Nandakumar</h1>
 <h3 align="center">Passionate developer who loves fishing a lot... 🐠.</h3>
 
+<br>
 
-<br />
-<div align="center">
-  <a href="https://avatars.githubusercontent.com/u/9011267?v=4">
-    <img src="https://www.dotnetconf.net/img/hero-illustration-bot.svg" alt="Logo" width="300">
-  </a>
-  
-  <p align="center">
-Hey there, I’m a full-stack engineer & creative coder who specializes in webscrapping, backend development primarly in .NET and front-end development in React.js. I make it my mission to translate user-focused concepts into reliable solutions or applications that can run blazingly fast.
-  </p>
-</div>
+<table>
+  <tr>
+    <td>
+      <p><b>Full-Stack Engineer &amp; Creative Coder</b></p>
+      <p>Specializing in web scraping, back-end development primarily in .NET and front-end development in React.js. I make it my mission to translate user-focused concepts into reliable solutions or applications that can run blazingly fast.</p>
+    </td>
+    <td>
+      <a href="https://avatars.githubusercontent.com/u/9011267?v=4">
+        <img src="https://www.dotnetconf.net/img/hero-illustration-bot.svg" alt="Logo" width="300">
+      </a>
+    </td>
+  </tr>
+</table>
 
-----
+<br>
 
-#### 🌱 MY RECENT PROJECTS
+---
+
+## 🌱 MY RECENT PROJECTS
+
 > **Warning**
-> This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
+> This is an auto-generated list - I've set it up using GitHub Workflow. Check inside repo for details.
+
+| Repository | Description |
+| --- | --- |
+{{range recentRepos 5}}| [{{.Name}}]({{.URL}}) | {{with .Description}}{{.}}{{end}} |
 {{- end}}
 
-#### 🔨 MY RECENT PULL REQUESTS
+## 🔨 MY RECENT PULL REQUESTS
+
 > **Warning**
-> This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+> This is an auto-generated list - I've set it up using GitHub Workflow. Check inside repo for details.
+
+| Pull Request | Repository | Date |
+| --- | --- | --- |
+{{range recentPullRequests 5}}| [{{.Title}}]({{.URL}}) | [{{.Repo.Name}}]({{.Repo.URL}}) | {{humanize .CreatedAt}} |
 {{- end}}
 
-#### 📜 MY RECENT BLOGS
+## 📜 MY RECENT BLOGS
+
 > **Warning**
-> This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
-{{range rss "https://fribbledom.com/posts/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+> This is an auto-generated list - I've set it up using GitHub Workflow. Check inside repo for details.
+
+| Blog Post | Date |
+| --- | --- |
+{{range rss "https://fribbledom.com/posts/index.xml" 5}}| [{{.Title}}]({{.URL}}) | {{humanize .PublishedAt}} |
 {{- end}}
 
-#### ⭐ MY RECENT STARS
-> **Warning**
-> This is an Auto generated list - I've setup using GitHub Workflow. Check inside repo for details
-{{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
-{{- end }}
+## ⭐ MY RECENT STARS
 
-#### 📫 REACHOUT TO ME
+> **Warning**
+> This is an auto-generated list - I've set it up using GitHub Workflow. Check inside repo for details.
+
+| Repository | Description | Date |
+| --- | --- | --- |
+{{range recentStars 5}}| [{{.Repo.Name}}]({{.Repo.URL}}) | {{with .Repo.Description}}{{.}}{{end}} | {{humanize .StarredAt}} |
+{{- end}}
+
+## 📫 REACH OUT TO ME
 
 - LinkedIn: https://www.linkedin.com/in/sangeethnandakumar
-- Mail: sangeethnandakumarwork@gmail.com or twileloop@outlook.com
-- Follow On Instagram: @thebadcaptin
+- Email: sangeethnandakumarwork@gmail.com or twileloop@outlook.com
+- Follow on Instagram: @thebadcaptin
