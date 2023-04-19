@@ -26,27 +26,105 @@
 > **Warning**
 > This is an auto-generated list - I've set it up using GitHub Workflow. Check inside repo for details.
 
-| Repository | Description |
-| --- | --- |
-| [sangeethnandakumar/Twileloop.UOW](https://github.com/sangeethnandakumar/Twileloop.UOW) | Simple plug and play Unit Of Work pattern for your projects using LiteDB || [sangeethnandakumar/quiz_master](https://github.com/sangeethnandakumar/quiz_master) | Quiz Master repo || [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) | A fully free open source cross platform fluent APIClient for your .NET application || [sangeethnandakumar/MAUI-Blazor-Template](https://github.com/sangeethnandakumar/MAUI-Blazor-Template) | Test Repository of .NET MAUI || [sangeethnandakumar/Twileloop](https://github.com/sangeethnandakumar/Twileloop) | Official Twileloop Website |
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Description</th>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/sangeethnandakumar/Twileloop.UOW">sangeethnandakumar/Twileloop.UOW</a></td>
+    <td>Simple plug and play Unit Of Work pattern for your projects using LiteDB</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sangeethnandakumar/quiz_master">sangeethnandakumar/quiz_master</a></td>
+    <td>Quiz Master repo</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sangeethnandakumar/Twileloop.JetAPI">sangeethnandakumar/Twileloop.JetAPI</a></td>
+    <td>A fully free open source cross platform fluent APIClient for your .NET application</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sangeethnandakumar/MAUI-Blazor-Template">sangeethnandakumar/MAUI-Blazor-Template</a></td>
+    <td>Test Repository of .NET MAUI</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sangeethnandakumar/Twileloop">sangeethnandakumar/Twileloop</a></td>
+    <td>Official Twileloop Website</td>
+  </tr>
+</table>
 
 ## 🔨 MY RECENT PULL REQUESTS
 
 > **Warning**
 > This is an auto-generated list - I've set it up using GitHub Workflow. Check inside repo for details.
 
-| Pull Request | Repository | Date |
-| --- | --- | --- |
-| [fix - Changed issuer URL to use HTTPS](https://github.com/sangeethnandakumar/OAuth/pull/2) | [sangeethnandakumar/OAuth](https://github.com/sangeethnandakumar/OAuth) | 1 week ago || [Features/server upgrades](https://github.com/sangeethnandakumar/OAuth/pull/1) | [sangeethnandakumar/OAuth](https://github.com/sangeethnandakumar/OAuth) | 1 week ago || [fix - Added one unit test](https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/7) | [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) | 2 weeks ago || [feat - Automated sitemap generator](https://github.com/sangeethnandakumar/Twileloop/pull/1) | [sangeethnandakumar/Twileloop](https://github.com/sangeethnandakumar/Twileloop) | 2 weeks ago || [Features/grand master](https://github.com/sangeethnandakumar/MAUI-Blazor-Template/pull/1) | [sangeethnandakumar/MAUI-Blazor-Template](https://github.com/sangeethnandakumar/MAUI-Blazor-Template) | 1 month ago |
+<table>
+  <tr>
+    <th>Pull Request</th>
+    <th>Repository</th>
+    <th>Date</th>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/sangeethnandakumar/OAuth/pull/2">fix - Changed issuer URL to use HTTPS</a></td>
+    <td><a href="https://github.com/sangeethnandakumar/OAuth">sangeethnandakumar/OAuth</a></td>
+    <td>1 week ago</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sangeethnandakumar/OAuth/pull/1">Features/server upgrades</a></td>
+    <td><a href="https://github.com/sangeethnandakumar/OAuth">sangeethnandakumar/OAuth</a></td>
+    <td>1 week ago</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/7">fix - Added one unit test</a></td>
+    <td><a href="https://github.com/sangeethnandakumar/Twileloop.JetAPI">sangeethnandakumar/Twileloop.JetAPI</a></td>
+    <td>2 weeks ago</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sangeethnandakumar/Twileloop/pull/1">feat - Automated sitemap generator</a></td>
+    <td><a href="https://github.com/sangeethnandakumar/Twileloop">sangeethnandakumar/Twileloop</a></td>
+    <td>2 weeks ago</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sangeethnandakumar/MAUI-Blazor-Template/pull/1">Features/grand master</a></td>
+    <td><a href="https://github.com/sangeethnandakumar/MAUI-Blazor-Template">sangeethnandakumar/MAUI-Blazor-Template</a></td>
+    <td>1 month ago</td>
+  </tr>
+</table>
 
 ## 📜 MY RECENT BLOGS
 
 > **Warning**
 > This is an auto-generated list - I've set it up using GitHub Workflow. Check inside repo for details.
 
-| Blog Post | Date |
-| --- | --- |
-| [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) | 2 years ago || [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) | 3 years ago || [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) | 4 years ago || [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) | 4 years ago || [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) | 4 years ago |
+<table>
+  <tr>
+    <th>Blog Post</th>
+    <th>Date</th>
+  </tr>
+
+  <tr>
+    <td><a href="https://fribbledom.com/posts/selfhosting-vscode/">Self-hosting VSCode</a></td>
+    <td>2 years ago</td>
+  </tr>
+  <tr>
+    <td><a href="https://fribbledom.com/posts/encrypted-arch-install/">Installing Arch Linux with Full Disk Encryption</a></td>
+    <td>3 years ago</td>
+  </tr>
+  <tr>
+    <td><a href="https://fribbledom.com/posts/encrypted-remote-debian-install/">Remotely Installing a Fully-Encrypted Debian Server</a></td>
+    <td>4 years ago</td>
+  </tr>
+  <tr>
+    <td><a href="https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/">Gamut, a Go Package to Manage Color Palettes</a></td>
+    <td>4 years ago</td>
+  </tr>
+  <tr>
+    <td><a href="https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/">An Algorithm to Generate Color Palettes</a></td>
+    <td>4 years ago</td>
+  </tr>
+</table>
 
 ## ⭐ MY RECENT STARS
 
