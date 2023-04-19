@@ -11,7 +11,7 @@
     </td>
     <td>
       <a href="https://avatars.githubusercontent.com/u/9011267?v=4">
-        <img src="https://www.dotnetconf.net/img/hero-illustration-bot.svg" alt="Logo" width="300">
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/open-source-logo-svg-vector.svg" alt="Logo" width="300">
       </a>
     </td>
   </tr>
