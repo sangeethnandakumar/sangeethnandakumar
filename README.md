@@ -19,12 +19,12 @@
 
 <br>
 
----
-
-## 🌱 MY RECENT PROJECTS
-
 > **Warning**
 > This is an auto-generated list - I've set it up using GitHub Workflow. Check inside repo for details.
+
+---
+
+## 🌱 RECENT 5 PROJECTS
 
 <table>
   <tr>
@@ -54,10 +54,7 @@
   </tr>
 </table>
 
-## 🔨 MY RECENT PULL REQUESTS
-
-> **Warning**
-> This is an auto-generated list - I've set it up using GitHub Workflow. Check inside repo for details.
+## 🔨 RECENT 5 PULL REQUESTS
 
 <table>
   <tr>
@@ -93,50 +90,8 @@
   </tr>
 </table>
 
-## 📜 MY RECENT BLOGS
-
-> **Warning**
-> This is an auto-generated list - I've set it up using GitHub Workflow. Check inside repo for details.
-
-<table>
-  <tr>
-    <th>Blog Post</th>
-    <th>Date</th>
-  </tr>
-
-  <tr>
-    <td><a href="https://fribbledom.com/posts/selfhosting-vscode/">Self-hosting VSCode</a></td>
-    <td>2 years ago</td>
-  </tr>
-  <tr>
-    <td><a href="https://fribbledom.com/posts/encrypted-arch-install/">Installing Arch Linux with Full Disk Encryption</a></td>
-    <td>3 years ago</td>
-  </tr>
-  <tr>
-    <td><a href="https://fribbledom.com/posts/encrypted-remote-debian-install/">Remotely Installing a Fully-Encrypted Debian Server</a></td>
-    <td>4 years ago</td>
-  </tr>
-  <tr>
-    <td><a href="https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/">Gamut, a Go Package to Manage Color Palettes</a></td>
-    <td>4 years ago</td>
-  </tr>
-  <tr>
-    <td><a href="https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/">An Algorithm to Generate Color Palettes</a></td>
-    <td>4 years ago</td>
-  </tr>
-</table>
-
-## ⭐ MY RECENT STARS
-
-> **Warning**
-> This is an auto-generated list - I've set it up using GitHub Workflow. Check inside repo for details.
-
-| Repository | Description | Date |
-| --- | --- | --- |
-| [sangeethnandakumar/Twileloop.UOW](https://github.com/sangeethnandakumar/Twileloop.UOW) | Simple plug and play Unit Of Work pattern for your projects using LiteDB | 1 week ago || [sangeethnandakumar/Twileloop.JetAPI](https://github.com/sangeethnandakumar/Twileloop.JetAPI) | A fully free open source cross platform fluent APIClient for your .NET application | 1 month ago || [amd64fox/SpotX](https://github.com/amd64fox/SpotX) | Modified Spotify client. Blocks ads and updates, and more. | 1 month ago || [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) | All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI | 2 months ago || [EmpireMediaScience/A1111-Web-UI-Installer](https://github.com/EmpireMediaScience/A1111-Web-UI-Installer) | Complete installer for Automatic1111&#39;s infamous Stable Diffusion WebUI | 2 months ago |
-
-## 📫 REACH OUT TO ME
+## 📫 REACH OUT
 
 - LinkedIn: https://www.linkedin.com/in/sangeethnandakumar
 - Email: sangeethnandakumarwork@gmail.com or twileloop@outlook.com
-- Follow on Instagram: @thebadcaptin
+- Follow on Instagram: @sangeeth.nandakumar
