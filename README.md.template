@@ -19,12 +19,12 @@
 
 <br>
 
----
-
-## 🌱 MY RECENT PROJECTS
-
 > **Warning**
 > This is an auto-generated list - I've set it up using GitHub Workflow. Check inside repo for details.
+
+---
+
+## 🌱 RECENT 5 PROJECTS
 
 <table>
   <tr>
@@ -39,10 +39,7 @@
 {{- end}}
 </table>
 
-## 🔨 MY RECENT PULL REQUESTS
-
-> **Warning**
-> This is an auto-generated list - I've set it up using GitHub Workflow. Check inside repo for details.
+## 🔨 RECENT 5 PULL REQUESTS
 
 <table>
   <tr>
@@ -59,36 +56,8 @@
 {{- end}}
 </table>
 
-## 📜 MY RECENT BLOGS
-
-> **Warning**
-> This is an auto-generated list - I've set it up using GitHub Workflow. Check inside repo for details.
-
-<table>
-  <tr>
-    <th>Blog Post</th>
-    <th>Date</th>
-  </tr>
-{{range rss "https://fribbledom.com/posts/index.xml" 5}}
-  <tr>
-    <td><a href="{{.URL}}">{{.Title}}</a></td>
-    <td>{{humanize .PublishedAt}}</td>
-  </tr>
-{{- end}}
-</table>
-
-## ⭐ MY RECENT STARS
-
-> **Warning**
-> This is an auto-generated list - I've set it up using GitHub Workflow. Check inside repo for details.
-
-| Repository | Description | Date |
-| --- | --- | --- |
-{{range recentStars 5}}| [{{.Repo.Name}}]({{.Repo.URL}}) | {{with .Repo.Description}}{{.}}{{end}} | {{humanize .StarredAt}} |
-{{- end}}
-
-## 📫 REACH OUT TO ME
+## 📫 REACH OUT
 
 - LinkedIn: https://www.linkedin.com/in/sangeethnandakumar
 - Email: sangeethnandakumarwork@gmail.com or twileloop@outlook.com
-- Follow on Instagram: @thebadcaptin
+- Follow on Instagram: @sangeeth.nandakumar
