@@ -7,7 +7,7 @@
   <tr>
     <td>
       <p><b>Full-Stack Engineer &amp; Creative Coder</b></p>
-      <p>Specializing in web scraping, back-end development primarily in .NET and front-end development in React.js. I make it my mission to translate user-focused concepts into reliable solutions or applications that can run blazingly fast.</p>
+      <p>Contributing to the open source community through meticulously-crafted .NET and JavaScript libraries, complemented by a diverse range of expertise in Selenium, high-performance WebAPI, and Flutter.</p>
     </td>
     <td>
       <a href="https://avatars.githubusercontent.com/u/9011267?v=4">
