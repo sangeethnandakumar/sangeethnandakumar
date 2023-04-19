@@ -19,12 +19,12 @@
 
 <br>
 
-> **Info**
+> **Information**
 > Note: This is an auto-generated list generated using a workflow.
 
 ---
 
-## 🙃 RECENT 5 PROJECTS
+### 🙃 RECENT 5 PROJECTS
 
 <table>
   <tr>
@@ -54,7 +54,7 @@
   </tr>
 </table>
 
-## 🫣 RECENT 5 PULL REQUESTS
+### 🫣 RECENT 5 PULL REQUESTS
 
 <table>
   <tr>
@@ -90,7 +90,7 @@
   </tr>
 </table>
 
-## 😎 REACH OUT
+### 😎 REACH OUT
 
 - LinkedIn: https://www.linkedin.com/in/sangeethnandakumar
 - Email: sangeethnandakumarwork@gmail.com or twileloop@outlook.com
