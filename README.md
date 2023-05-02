@@ -81,7 +81,7 @@
   <tr>
     <td><a href="https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/7">fix - Added one unit test</a></td>
     <td><a href="https://github.com/sangeethnandakumar/Twileloop.JetAPI">sangeethnandakumar/Twileloop.JetAPI</a></td>
-    <td>4 weeks ago</td>
+    <td>1 month ago</td>
   </tr>
   <tr>
     <td><a href="https://github.com/sangeethnandakumar/Twileloop/pull/1">feat - Automated sitemap generator</a></td>
