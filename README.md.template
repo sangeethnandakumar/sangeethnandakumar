@@ -18,13 +18,12 @@
 </table>
 
 <br>
-
 | | Channel | Contact Link 
 | :---: | :---: | :---:
-| <img src="https://iili.io/HUeZwsS.png" alt="Logo" height="25"> | LinkedIn | https://www.linkedin.com/in/sangeethnandakumar/
+| <img src="https://iili.io/HUeZwsS.png" alt="Logo" height="25"> | LinkedIn | [Goto LinkedIn](https://bit.ly/3W7Cd2S)
 | <img src="https://iili.io/HUeZOq7.png" alt="Logo" height="25"> | Email Address | sangeethnandakumarwork@gmail.com 
 | <img src="https://iili.io/HUeZOq7.png" alt="Logo" height="25"> | Email Address | twileloop@outlook.com 
-| <img src="https://iili.io/HUeDWV2.png" alt="Logo" height="25"> | Instagram | https://www.instagram.com/sangeeth.nandakumar/
+| <img src="https://iili.io/HUeDWV2.png" alt="Logo" height="25"> | Instagram | [Goto Instagram](https://bit.ly/3M9Agyo)
 
 ---
 
