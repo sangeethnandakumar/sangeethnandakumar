@@ -19,10 +19,17 @@
 
 <br>
 
-> **Information**
-> Note: This is an auto-generated list generated using a workflow.
+| | Channel | Contact Link 
+| :---: | :---: | :---:
+| <img src="https://iili.io/HUeZwsS.png" alt="Logo" height="25"> | LinkedIn | https://www.linkedin.com/in/sangeethnandakumar/
+| <img src="https://iili.io/HUeZOq7.png" alt="Logo" height="25"> | Email Address | sangeethnandakumarwork@gmail.com 
+| <img src="https://iili.io/HUeZOq7.png" alt="Logo" height="25"> | Email Address | twileloop@outlook.com 
+| <img src="https://iili.io/HUeDWV2.png" alt="Logo" height="25"> | Instagram | https://www.instagram.com/sangeeth.nandakumar/
 
 ---
+
+> **Note**
+> This is an auto-generated list generated using a workflow.
 
 ### 🙃 RECENT 5 PROJECTS
 
