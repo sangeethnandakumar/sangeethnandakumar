@@ -18,6 +18,7 @@
 </table>
 
 <br>
+
 | | Channel | Contact Link 
 | :---: | :---: | :---:
 | <img src="https://iili.io/HUeZwsS.png" alt="Logo" height="25"> | LinkedIn | [Goto LinkedIn](https://bit.ly/3W7Cd2S)
