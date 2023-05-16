@@ -31,7 +31,7 @@
 > **Note**
 > This is an auto-generated list generated using a workflow.
 
-### 🙃 RECENT 5 PROJECTS
+### 🙃 TOP 5 RECENT PROJECTS
 
 <table>
   <tr>
@@ -61,44 +61,3 @@
   </tr>
 </table>
 
-### 🫣 RECENT 5 PULL REQUESTS
-
-<table>
-  <tr>
-    <th>Pull Request</th>
-    <th>Repository</th>
-    <th>Date</th>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/sangeethnandakumar/Twileloop.Security/pull/1">Develop</a></td>
-    <td><a href="https://github.com/sangeethnandakumar/Twileloop.Security">sangeethnandakumar/Twileloop.Security</a></td>
-    <td>3 days ago</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/sangeethnandakumar/Twileloop.SpreadSheet/pull/1">Develop</a></td>
-    <td><a href="https://github.com/sangeethnandakumar/Twileloop.SpreadSheet">sangeethnandakumar/Twileloop.SpreadSheet</a></td>
-    <td>3 days ago</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/sangeethnandakumar/Twileloop.JetAPI/pull/8">Update unittests.yml</a></td>
-    <td><a href="https://github.com/sangeethnandakumar/Twileloop.JetAPI">sangeethnandakumar/Twileloop.JetAPI</a></td>
-    <td>3 weeks ago</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/sangeethnandakumar/OAuth/pull/2">fix - Changed issuer URL to use HTTPS</a></td>
-    <td><a href="https://github.com/sangeethnandakumar/OAuth">sangeethnandakumar/OAuth</a></td>
-    <td>1 month ago</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/sangeethnandakumar/OAuth/pull/1">Features/server upgrades</a></td>
-    <td><a href="https://github.com/sangeethnandakumar/OAuth">sangeethnandakumar/OAuth</a></td>
-    <td>1 month ago</td>
-  </tr>
-</table>
-
-### 😎 REACH OUT
-
-- LinkedIn: https://www.linkedin.com/in/sangeethnandakumar
-- Email: sangeethnandakumarwork@gmail.com or twileloop@outlook.com
-- Follow on Instagram: @sangeeth.nandakumar
