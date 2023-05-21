@@ -3,6 +3,8 @@
 
 <br>
 
+Find All Twileloop Packages: https://packages.twileloop.com/
+
 <table>
   <tr>
     <td>
@@ -40,6 +42,10 @@
   </tr>
 
   <tr>
+    <td><a href="https://github.com/sangeethnandakumar/CDNRack">sangeethnandakumar/CDNRack</a></td>
+    <td>Public files for JsDeliver CDN delivery</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/sangeethnandakumar/Twileloop.SpreadSheet">sangeethnandakumar/Twileloop.SpreadSheet</a></td>
     <td>Seamlessly read, write, copy, and move data single or in bulk, across various cross-format spreadsheets including Google Sheets and Microsoft Excel. All with extremally simplified cross format spreadsheet access API</td>
   </tr>
@@ -54,10 +60,6 @@
   <tr>
     <td><a href="https://github.com/sangeethnandakumar/Twileloop.JetAPI">sangeethnandakumar/Twileloop.JetAPI</a></td>
     <td>A fully free open source cross platform fluent APIClient for your .NET application</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/sangeethnandakumar/MAUI-Blazor-Template">sangeethnandakumar/MAUI-Blazor-Template</a></td>
-    <td>Test Repository of .NET MAUI</td>
   </tr>
 </table>
 
