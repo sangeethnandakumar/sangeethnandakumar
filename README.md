@@ -23,6 +23,7 @@ Find All Twileloop Packages: https://packages.twileloop.com/
 
 | | Channel | Contact Link 
 | :---: | :---: | :---:
+| <img src="https://iili.io/HgOPJrN.png" alt="Logo" height="25"> | All Packages | [Twileloop Packages](https://packages.twileloop.com)
 | <img src="https://iili.io/HUeZwsS.png" alt="Logo" height="25"> | LinkedIn | [Goto LinkedIn](https://bit.ly/3W7Cd2S)
 | <img src="https://iili.io/HUeZOq7.png" alt="Logo" height="25"> | Email Address | sangeethnandakumarwork@gmail.com 
 | <img src="https://iili.io/HUeZOq7.png" alt="Logo" height="25"> | Email Address | twileloop@outlook.com 
@@ -51,7 +52,7 @@ Find All Twileloop Packages: https://packages.twileloop.com/
   </tr>
   <tr>
     <td><a href="https://github.com/sangeethnandakumar/Twileloop.UOW">sangeethnandakumar/Twileloop.UOW</a></td>
-    <td>Simple plug and play Unit Of Work pattern for your projects using LiteDB</td>
+    <td>A lightweight and ready-made implementation of unit of work pattern &#43; LiteDB. With ability to use multiple LiteDB databases, ready-made CRUD operations repository, LiteDB&#39;s native transactions and thread-safe features.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/sangeethnandakumar/quiz_master">sangeethnandakumar/quiz_master</a></td>
