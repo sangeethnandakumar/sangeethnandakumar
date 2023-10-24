@@ -1,15 +1,21 @@
+> **Note**
+> This document is auto-generated and auto-updates every day using a cron workflow.
+
+> **Note**
+> Reachout - sangeethnandakumarofficial@outlook.com
+
+<hr/>
+
 <h1 align="center">Hi 👋, I'm Sangeeth Nandakumar</h1>
-<h3 align="center">Developer | OSS | Embedded</h3>
+<h3 align="center">Developer | OSS | Author</h3>
 
 <br>
-
-Find All Twileloop Packages: https://packages.twileloop.com/
 
 <table>
   <tr>
     <td>
       <p><b>Creative Coder &amp; Full-Stack Engineer</b></p>
-      <p>Contributing to the open source community through meticulously-crafted .NET and JavaScript libraries, complemented by a diverse range of expertise in Selenium, high-performance WebAPI, and Flutter.</p>
+      <p>Contributing to the open source community through meticulously crafted .NET and JavaScript libraries, complemented by a diverse range of expertise in Selenium, WebAPIs, React, iOT .NET etc...</p>
     </td>
     <td>
       <a href="https://avatars.githubusercontent.com/u/9011267?v=4">
@@ -31,10 +37,7 @@ Find All Twileloop Packages: https://packages.twileloop.com/
 
 ---
 
-> **Note**
-> This is an auto-generated list generated using a workflow.
-
-### 🙃 TOP 5 RECENT PROJECTS
+### 🙃 TOP 5 RECENT PROJECTS (Auto Updated)
 
 <table>
   <tr>
@@ -43,24 +46,24 @@ Find All Twileloop Packages: https://packages.twileloop.com/
   </tr>
 
   <tr>
-    <td><a href="https://github.com/sangeethnandakumar/CDNRack">sangeethnandakumar/CDNRack</a></td>
-    <td>Public files for JsDeliver CDN delivery</td>
+    <td><a href="https://github.com/sangeethnandakumar/Api.js-Template">sangeethnandakumar/Api.js-Template</a></td>
+    <td>Revealing Module Pattern based generic &#39;Api.js&#39; template (using Axios and MSAL)</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/sangeethnandakumar/Twileloop.SpreadSheet">sangeethnandakumar/Twileloop.SpreadSheet</a></td>
-    <td>Seamlessly read, write, copy, and move data single or in bulk, across various cross-format spreadsheets including Google Sheets and Microsoft Excel. All with extremally simplified cross format spreadsheet access API</td>
+    <td><a href="https://github.com/sangeethnandakumar/Template-CongurationValidationWithFluent">sangeethnandakumar/Template-CongurationValidationWithFluent</a></td>
+    <td></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/sangeethnandakumar/Twileloop.UOW">sangeethnandakumar/Twileloop.UOW</a></td>
-    <td>A lightweight and ready-made implementation of unit of work pattern &#43; LiteDB. With ability to use multiple LiteDB databases, ready-made CRUD operations repository, LiteDB&#39;s native transactions and thread-safe features.</td>
+    <td><a href="https://github.com/sangeethnandakumar/Twileloop.SST">sangeethnandakumar/Twileloop.SST</a></td>
+    <td>Single Source Of Truth</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/sangeethnandakumar/quiz_master">sangeethnandakumar/quiz_master</a></td>
-    <td>Quiz Master repo</td>
+    <td><a href="https://github.com/sangeethnandakumar/Twileloop.FileStorage">sangeethnandakumar/Twileloop.FileStorage</a></td>
+    <td>Official persistance library for enabling save to file feature to your application</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/sangeethnandakumar/Twileloop.JetAPI">sangeethnandakumar/Twileloop.JetAPI</a></td>
-    <td>A fully free open source cross platform fluent APIClient for your .NET application</td>
+    <td><a href="https://github.com/sangeethnandakumar/Twileloop.SessionGuard">sangeethnandakumar/Twileloop.SessionGuard</a></td>
+    <td></td>
   </tr>
 </table>
 
