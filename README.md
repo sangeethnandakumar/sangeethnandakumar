@@ -50,7 +50,7 @@
     <td>Revealing Module Pattern based generic &#39;Api.js&#39; template (using Axios and MSAL)</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/sangeethnandakumar/Template-CongurationValidationWithFluent">sangeethnandakumar/Template-CongurationValidationWithFluent</a></td>
+    <td><a href="https://github.com/sangeethnandakumar/Twileloop.SafeConfig">sangeethnandakumar/Twileloop.SafeConfig</a></td>
     <td></td>
   </tr>
   <tr>
