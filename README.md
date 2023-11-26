@@ -46,6 +46,10 @@
   </tr>
 
   <tr>
+    <td><a href="https://github.com/sangeethnandakumar/DeskKiosk">sangeethnandakumar/DeskKiosk</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/sangeethnandakumar/Api.js-Template">sangeethnandakumar/Api.js-Template</a></td>
     <td>Revealing Module Pattern based generic &#39;Api.js&#39; template (using Axios and MSAL)</td>
   </tr>
@@ -60,10 +64,6 @@
   <tr>
     <td><a href="https://github.com/sangeethnandakumar/Twileloop.FileStorage">sangeethnandakumar/Twileloop.FileStorage</a></td>
     <td>Official persistance library for enabling save to file feature to your application</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/sangeethnandakumar/Twileloop.SessionGuard">sangeethnandakumar/Twileloop.SessionGuard</a></td>
-    <td></td>
   </tr>
 </table>
 
