@@ -46,6 +46,10 @@
   </tr>
 
   <tr>
+    <td><a href="https://github.com/sangeethnandakumar/EmbeddedStaticPage">sangeethnandakumar/EmbeddedStaticPage</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/sangeethnandakumar/DeskKiosk">sangeethnandakumar/DeskKiosk</a></td>
     <td></td>
   </tr>
@@ -60,10 +64,6 @@
   <tr>
     <td><a href="https://github.com/sangeethnandakumar/Twileloop.SST">sangeethnandakumar/Twileloop.SST</a></td>
     <td>Single Source Of Truth</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/sangeethnandakumar/Twileloop.FileStorage">sangeethnandakumar/Twileloop.FileStorage</a></td>
-    <td>Official persistance library for enabling save to file feature to your application</td>
   </tr>
 </table>
 
