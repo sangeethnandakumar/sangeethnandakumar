@@ -46,6 +46,10 @@
   </tr>
 
   <tr>
+    <td><a href="https://github.com/sangeethnandakumar/Native-MAUI-MacCatalist-Mac">sangeethnandakumar/Native-MAUI-MacCatalist-Mac</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/sangeethnandakumar/EmbeddedStaticPage">sangeethnandakumar/EmbeddedStaticPage</a></td>
     <td></td>
   </tr>
@@ -60,10 +64,6 @@
   <tr>
     <td><a href="https://github.com/sangeethnandakumar/Twileloop.SafeConfig">sangeethnandakumar/Twileloop.SafeConfig</a></td>
     <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/sangeethnandakumar/Twileloop.SST">sangeethnandakumar/Twileloop.SST</a></td>
-    <td>Single Source Of Truth</td>
   </tr>
 </table>
 
