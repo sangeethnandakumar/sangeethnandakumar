@@ -27,9 +27,7 @@
 
 <br>
 
-# Publications
-| | Nuget Package | Contact Link 
-| :---: | :---: | :---:
+# NuGet Publications
 https://sangeethnandakumar.github.io/Twileloop.UOW
 https://sangeethnandakumar.github.io/Twileloop.Timezone
 https://sangeethnandakumar.github.io/Twileloop.Spreadsheet
