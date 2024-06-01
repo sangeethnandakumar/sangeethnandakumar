@@ -28,16 +28,16 @@
 <br>
 
 # NuGet Publications
-https://sangeethnandakumar.github.io/Twileloop.UOW
-https://sangeethnandakumar.github.io/Twileloop.Timezone
-https://sangeethnandakumar.github.io/Twileloop.Spreadsheet
-https://sangeethnandakumar.github.io/Twileloop.Security
-https://sangeethnandakumar.github.io/Twileloop.SessionGuard
-https://sangeethnandakumar.github.io/Twileloop.Spider
-https://sangeethnandakumar.github.io/Twileloop.FileStorage
-https://sangeethnandakumar.github.io/Twileloop.SST
-https://sangeethnandakumar.github.io/Twileloop.EntraWrapper
-https://sangeethnandakumar.github.io/Twileloop.SafeConfig
+- https://sangeethnandakumar.github.io/Twileloop.UOW
+- https://sangeethnandakumar.github.io/Twileloop.Timezone
+- https://sangeethnandakumar.github.io/Twileloop.Spreadsheet
+- https://sangeethnandakumar.github.io/Twileloop.Security
+- https://sangeethnandakumar.github.io/Twileloop.SessionGuard
+- https://sangeethnandakumar.github.io/Twileloop.Spider
+- https://sangeethnandakumar.github.io/Twileloop.FileStorage
+- https://sangeethnandakumar.github.io/Twileloop.SST
+- https://sangeethnandakumar.github.io/Twileloop.EntraWrapper
+- https://sangeethnandakumar.github.io/Twileloop.SafeConfig
 
 ---
 
