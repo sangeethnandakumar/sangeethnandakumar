@@ -30,9 +30,16 @@
 # Publications
 | | Nuget Package | Contact Link 
 | :---: | :---: | :---:
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/NuGet_project_logo.svg/2048px-NuGet_project_logo.svg.png" alt="Logo" height="25"> | Twileloop.Uow | [Twileloop Twileloop.UOW](https://sangeethnandakumar.github.io/Twileloop.UOW)
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/NuGet_project_logo.svg/2048px-NuGet_project_logo.svg.png" alt="Logo" height="25"> | Twileloop.Timezone | [Goto Twileloop.Timezone](https://sangeethnandakumar.github.io/Twileloop.Timezone)
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/NuGet_project_logo.svg/2048px-NuGet_project_logo.svg.png" alt="Logo" height="25"> | Twileloop.Spreadsheet | [Goto Twileloop.Spreadsheet](https://sangeethnandakumar.github.io/Twileloop.Spreadsheet)
+https://sangeethnandakumar.github.io/Twileloop.UOW
+https://sangeethnandakumar.github.io/Twileloop.Timezone
+https://sangeethnandakumar.github.io/Twileloop.Spreadsheet
+https://sangeethnandakumar.github.io/Twileloop.Security
+https://sangeethnandakumar.github.io/Twileloop.SessionGuard
+https://sangeethnandakumar.github.io/Twileloop.Spider
+https://sangeethnandakumar.github.io/Twileloop.FileStorage
+https://sangeethnandakumar.github.io/Twileloop.SST
+https://sangeethnandakumar.github.io/Twileloop.EntraWrapper
+https://sangeethnandakumar.github.io/Twileloop.SafeConfig
 
 ---
 
@@ -61,8 +68,8 @@
     <td>Sample Azure Functions API implementation</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/sangeethnandakumar/Native-MAUI-MacCatalist-Mac">sangeethnandakumar/Native-MAUI-MacCatalist-Mac</a></td>
-    <td></td>
+    <td><a href="https://github.com/sangeethnandakumar/Twileloop.Spider">sangeethnandakumar/Twileloop.Spider</a></td>
+    <td>Selenium Based Webscrapper</td>
   </tr>
 </table>
 
