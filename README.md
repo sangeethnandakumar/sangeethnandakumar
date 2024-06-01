@@ -27,7 +27,7 @@
 
 <br>
 
-## Publications
+# Publications
 | | Nuget Package | Contact Link 
 | :---: | :---: | :---:
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/NuGet_project_logo.svg/2048px-NuGet_project_logo.svg.png" alt="Logo" height="25"> | Twileloop.Uow | [Twileloop Twileloop.UOW](https://sangeethnandakumar.github.io/Twileloop.UOW)
@@ -45,23 +45,23 @@
   </tr>
 
   <tr>
+    <td><a href="https://github.com/sangeethnandakumar/help">sangeethnandakumar/help</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sangeethnandakumar/CleanArchitecture">sangeethnandakumar/CleanArchitecture</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sangeethnandakumar/FirstDockerAPI">sangeethnandakumar/FirstDockerAPI</a></td>
+    <td>Docker test on my VM</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sangeethnandakumar/TwileloopAPI">sangeethnandakumar/TwileloopAPI</a></td>
+    <td>Sample Azure Functions API implementation</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/sangeethnandakumar/Native-MAUI-MacCatalist-Mac">sangeethnandakumar/Native-MAUI-MacCatalist-Mac</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/sangeethnandakumar/EmbeddedStaticPage">sangeethnandakumar/EmbeddedStaticPage</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/sangeethnandakumar/DeskKiosk">sangeethnandakumar/DeskKiosk</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/sangeethnandakumar/Api.js-Template">sangeethnandakumar/Api.js-Template</a></td>
-    <td>Revealing Module Pattern based generic &#39;Api.js&#39; template (using Axios and MSAL)</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/sangeethnandakumar/Twileloop.SafeConfig">sangeethnandakumar/Twileloop.SafeConfig</a></td>
     <td></td>
   </tr>
 </table>
