@@ -50,6 +50,10 @@
   </tr>
 
   <tr>
+    <td><a href="https://github.com/sangeethnandakumar/portfolio.github.io">sangeethnandakumar/portfolio.github.io</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/sangeethnandakumar/cleanarchtools.github.io">sangeethnandakumar/cleanarchtools.github.io</a></td>
     <td>Clean Architecture Tools</td>
   </tr>
@@ -64,10 +68,6 @@
   <tr>
     <td><a href="https://github.com/sangeethnandakumar/FirstDockerAPI">sangeethnandakumar/FirstDockerAPI</a></td>
     <td>Docker test on my VM</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/sangeethnandakumar/TwileloopAPI">sangeethnandakumar/TwileloopAPI</a></td>
-    <td>Sample Azure Functions API implementation</td>
   </tr>
 </table>
 
