@@ -54,10 +54,6 @@
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/sangeethnandakumar/expensetracker_flutter">sangeethnandakumar/expensetracker_flutter</a></td>
-    <td></td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/sangeethnandakumar/expencetrackerplayground.github.com">sangeethnandakumar/expencetrackerplayground.github.com</a></td>
     <td></td>
   </tr>
@@ -68,6 +64,10 @@
   <tr>
     <td><a href="https://github.com/sangeethnandakumar/cleanarchtools.github.io">sangeethnandakumar/cleanarchtools.github.io</a></td>
     <td>Clean Architecture Tools</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sangeethnandakumar/ExpenceTracker">sangeethnandakumar/ExpenceTracker</a></td>
+    <td>Official Repository for ExpenceTracker built using Clean Architecture</td>
   </tr>
 </table>
 
